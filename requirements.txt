@@ -1,0 +1,13 @@
+jupyter
+notebook
+numpy
+pandas
+matplotlib
+xlrd
+scipy
+sklearn
+pytest
+tensorflow
+keras
+nltk
+gensim

@@ -8,6 +8,23 @@ The primary purpose of RookieML is to introduce beginners to various machine lea
 
 ****
 
+### Getting started
+##### Windows
+Install Python from [here](https://www.python.org/downloads/release/python-355/), if you are using Windows.
+Open the command prompt and navigate to the RookieML folder
+Run the following command:
+`pip install --upgrade -r requirements.txt`
+
+##### Ubuntu
+Install pip3 using the command
+`sudo apt-get install python3-pip`
+Open terminal inside the RookeML folder, and run this command:
+`sudo pip3 install --upgrade -r requirements.txt`
+
+
+#### Windows
+
+
 ### What is covered?
 
 - Popular machine learning algorithms
